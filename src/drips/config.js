@@ -37,12 +37,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
-global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
-global.packname = 'ZIM BOT INC'
-global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
+global.owner = ['916291588399','']
+global.premium = ['916291588399','']
+global.botname = 'DARK-DEEP-BOT'
+global.ownername ='☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬'
+global.packname = 'KEPLAR BOT INC'
+global.quoted = 'https://www.youtube.com/channel/UCu-TyFlJEIRY_15lg7FlpGA'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -57,7 +57,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'KEPLAR BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
