@@ -21,19 +21,19 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'false'
 global.onlygroup = 'false'
-global.group1 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
+global.group1 = 'https://chat.whatsapp.com/EH84HOT9kRA6KnziwHHOfs' //මෙතන grouplink එක.
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '6291588399' //මෙතන number එක.
+global.REACT_NUMBER = '916291588399' //මෙතන number එක.
 
 // Other
-global.owner = ['6291588399',''] //මෙතන number එක.
-global.premium = ['6291588399','9476342733'] //මෙතන number එක.
+global.owner = ['916291588399',''] //මෙතන number එක.
+global.premium = ['916291588399',''] //මෙතන number එක.
 global.botname = 'DARK-DEEP-BOT' //මෙතන නම.
 global.ownername = '☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬' //මෙතන නම.
 global.ownername = '☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬' //මෙතන නම.
-global.group2 = 'https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/J66vEztfJkv8ry9UARzn5Q' //මෙතන grouplink එක.
 global.packname = 'KEPLAR BOT INC' //මෙතන නම.
 global.cap = '*By ☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬*' //මෙතන නම.
 global.img = 'https://telegra.ph/file/9812435e7c0a245ea50c4.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
