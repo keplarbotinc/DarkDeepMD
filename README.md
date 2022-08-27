@@ -2,7 +2,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`DarkDeep`](https://github.com/kumarduttadeep)
 
 # Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -16,7 +16,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/23P3nY0/20220602-094206.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
