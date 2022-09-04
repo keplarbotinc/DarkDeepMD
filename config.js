@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 //settings
-global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
-global.callblock = 'false' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
+global.welcomeandgoodbye = 'false' //welcome එක off කරන්න ඕනෙ නම් false දාන්න.
+global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'false'
 global.onlygroup = 'false'
 global.group1 = 'https://chat.whatsapp.com/EH84HOT9kRA6KnziwHHOfs' //මෙතන grouplink එක.
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
+global.OWNER_REACT = '🦇' //මෙතනට emoji එකක දාන්න.
 global.REACT_NUMBER = '916291588399' //මෙතන number එක.
 
 // Other
