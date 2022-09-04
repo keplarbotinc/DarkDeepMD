@@ -1,6 +1,6 @@
 # DARK-BOT-MD
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/darkdeepbot/count.svg)
 
 ## Thanks To : [`DarkDeep`](https://github.com/kumarduttadeep)
 
@@ -22,19 +22,19 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DarkDeepMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By Keplar YT>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
+ ## My Website : [Click Heare](https://sites.google.com/view/ptajlmorg)
 
-1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@DarkDeep/Dark-Deep-Bot-MD?output%20only=1&lite=1#session.json) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V2/fork)
+2. Click [FORK](https://github.com/darkdeepbot/DarkDeepMD/fork)
 
 2. After That Upload Session.json File
 
@@ -44,7 +44,7 @@
 
 
 ## Owner:
-* [`KEPLAR-YT`](https://github.com/vihangayt0)
+* [`KEPLAR-YT`](https://www.youtube.com/channel/UCu-TyFlJEIRY_15lg7FlpGA)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
