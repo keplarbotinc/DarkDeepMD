@@ -22,7 +22,7 @@
 
   <p align="center">
 
-<a href="#"><img title="DarkDeepMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DarkDeepMD" src="https://img.shields.io/badge/DarkDeep-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
