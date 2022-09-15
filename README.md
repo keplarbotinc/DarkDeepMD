@@ -2,7 +2,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/darkdeepbot/count.svg)
 
-## Thanks To : [`DarkDeep`](https://github.com/kumarduttadeep)
+## Thanks To : [`DarkDeep`](https://github.com/keplarbotinc)
 
 # Support Group <a href="https://chat.whatsapp.com/J66vEztfJkv8ry9UARzn5Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
@@ -30,11 +30,11 @@
 
 <p align="center">By Keplar YT>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/ptajlmorg)
+ ## My Website : [Click Heare](https://sites.google.com/view/keplarbotinc)
 
 1. Click [SCAN](https://replit.com/@DarkDeep/Dark-Deep-Bot-MD?output%20only=1&lite=1#session.json) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/darkdeepbot/DarkDeepMD/fork)
+2. Click [FORK](https://github.com/keplarbotinc/DarkDeepMD/fork)
 
 2. After That Upload Session.json File
 
